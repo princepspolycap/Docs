@@ -26,7 +26,7 @@
     },
     "homepage": "https://github.com/OpenMined/docs#readme",
     "dependencies": {
-        "mermaid": "^7.0.3",
+        "mermaid": "^9.1.2",
         "phantomjs": "^2.1.7"
     }
 }
